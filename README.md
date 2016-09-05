@@ -38,11 +38,11 @@ Other numbers in the model are to adjust the position and size of the cable slot
 
 ![Piston 2](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-09-05-piston-dock/dock2.jpg)
 
-![Piston 3](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-09-05-piston-dock/dock3.jpg)
+![Piston 3](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-09-05-piston-dock/dock3.jpeg)
 
-![Piston 4](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-09-05-piston-dock/dock4.jpg)
+![Piston 4](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-09-05-piston-dock/dock4.jpeg)
 
-![Piston 5](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-09-05-piston-dock/dock5.jpg)
+![Piston 5](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-09-05-piston-dock/dock5.jpeg)
 
 ## About OpenMoto
 In the future, I do intend on creating more designs for a variety of bikes including trials, mx, enduro and road bikes. I also intend for these designs to be distributed freely, with the option for people to get me to organise 3D printing for a small fee. For this model and more new designs, visit [mongerrr.github.io](mongerrr.github.io)
