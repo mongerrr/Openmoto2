@@ -8,8 +8,6 @@ If you have any suggestions, feedback, or pictures of your 3D print, feel free t
 ### Instructions For Printing
 If you would just like to 3d print this part, use the "piston_dock.stl" and "wrist-pin.stl" files. If you don't have your own 3D printer, I would recommend using [3D Hubs](https://www.3dhubs.com), as you can get good quality prints for a reasonable price.
 
-I have written a post on the OpenMoto blog about how I designed and printed this part for myself which can be found [here](http://mongerrr.github.io/2016-09-05-piston-dock/)
-
 ### Instructions For Modification
 
 If you would like to make your piston dock, feel free to make changes to suit the size of your piston
@@ -43,10 +41,3 @@ Other numbers in the model are to adjust the position and size of the cable slot
 ![Piston 4](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-09-05-piston-dock/dock4.jpeg)
 
 ![Piston 5](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-09-05-piston-dock/dock5.jpeg)
-
-## About OpenMoto
-In the future, I do intend on creating more designs for a variety of bikes including trials, mx, enduro and road bikes. I also intend for these designs to be distributed freely, with the option for people to get me to organise 3D printing for a small fee. For this model and more new designs, visit [mongerrr.github.io](mongerrr.github.io)
-
-If you would like to become a collaborator and share your designs alongside me, contact me at [amonger@gmail.com](mailto:amonger@gmail.com)
-
-If you would like to support the design of parts like these, please make a donation, however big or small at [paypal.me/mongerrr](paypal.me/mongerrr)
